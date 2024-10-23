@@ -1,5 +1,4 @@
- 
-Hello! My project is a nuker bot. I've provided the source code below, but I am not responsible for how you use it. If you encounter any issues, feel free to add me on Discord: "yacnox".  
+My project is a nuker bot. I've provided the source code below, but I am not responsible for how you use it. If you encounter any issues, feel free to add me on Discord: "yacnox".  
 
 This bot offers several commands, including **/cmds** to make things easier for you. Here’s what it can do:  
 
