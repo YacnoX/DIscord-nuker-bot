@@ -1,4 +1,6 @@
-My project is a nuker bot. I've provided the source code below, but I am not responsible for how you use it. If you encounter any issues, feel free to add me on Discord: "yacnox".  
+My project is a nuker bot. I've provided the source code below, but I am not responsible for how you use it. If you encounter any issues, feel free to add me on Discord: "yacnox".
+
+⚠️ To run the program, you need to create your bot here: [https://discord.com/developers/applications] and also copy the token, then place it at the end of the program in the "YOUR_TOKEN" section.
 
 This bot offers several commands, including **/cmds** to make things easier for you. Here’s what it can do:  
 
